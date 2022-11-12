@@ -1,0 +1,26 @@
+import { StyleSheet } from 'react-native';
+
+export const styles = StyleSheet.create({
+    restaurant: {
+        flexDirection: "row",
+        margin: 20,
+        alignItems: "center"
+    },
+    image: {
+        width: 80,
+        height: 80,
+        marginRight: 15
+    },
+    contentText: {
+        marginTop: 18
+    },
+    name: {
+        fontWeight: 'bold',
+
+    },
+    info: {
+        color: "#828282",
+        paddingRight: 100,
+        marginTop: 3,
+    }
+})
