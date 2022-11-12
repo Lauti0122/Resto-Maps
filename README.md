@@ -1,10 +1,14 @@
 # RestoAPP
 Application mobile with React Native and Firebase
-
 Finished application : https://www.youtube.com/watch?v=rkRU2NQiDN4
 
-#Screens:
+- Firebase authentication
+- Firestore cloud (database)
+- Favorites system
+- Geolocation
+- Ranking and Reviews (Restaurants)
 
+##Screens:
 ![Imagen de WhatsApp 2022-11-11 a las 21 42 59](https://user-images.githubusercontent.com/93667112/201448231-af4b0550-cab1-4363-8dcb-95dc435e28d2.jpg)
 ![Imagen de WhatsApp 2022-11-11 a las 21 42 1](https://user-images.githubusercontent.com/93667112/201448232-a8b6603e-5c20-4195-b227-1b938f9ebdb4.jpg)
 ![Imagen de WhatsApp 2022-11-11 a las 21 2242 49](https://user-images.githubusercontent.com/93667112/201448234-05897832-aa3e-4f73-84de-1a3b9ba1c4ff.jpg)
